@@ -58,13 +58,6 @@ The book contains **10 chapters** and a **lab appendix** covering:
 
 ---
 
-## 🤖 Declaration of AI Assistance
-
-This textbook was prepared with the support of **generative AI tools** (including OpenAI’s ChatGPT) to improve clarity and structure.  
-All AI-assisted sections were **reviewed, revised, and verified by the author** to ensure accuracy and originality.
-
----
-
 ## 🎓 Significance
 
 This book provides a **modern learning framework** that integrates theory, simulation, and FPGA prototyping. It supports the transition from **concept to implementation**, preparing students for careers in **digital design, embedded systems, and reconfigurable computing**.

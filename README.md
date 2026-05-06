@@ -8,7 +8,8 @@
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 📥 **Download the eBook:**  
-[Click here to download the PDF]((https://github.com/komsan-k/verilog-fpga-ebook/blob/main/Book%20977-114-DLD.pdf)
+[Click here to download the PDF](https://github.com/komsan-k/verilog-fpga-ebook/blob/main/Book-977-114-DLD.pdf)
+
 <!--(https://github.com/komsan-k/verilog-fpga-ebook/blob/main/ebook%20977-114.pdf)--->
 
 <!-- [Click here to download the PDF](https://opac.psu.ac.th/BibDetail.aspx?bibno=461714) --->

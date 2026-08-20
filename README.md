@@ -1,7 +1,7 @@
 
 # 📘 Verilog HDL and FPGA: A Practical Approach to Digital and Logic Design
 
-**Author:** Komsan Kanjanasit,PhD  
+**Author:** Komsan Kanjanasit, PhD  
 **Publisher:** College of Computing, Prince of Songkla University, Thailand  
 **Edition:** First Edition (2025)  
 **ISBN (e-book):** 978-616-271-830-4  
